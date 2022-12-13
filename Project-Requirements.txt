@@ -3,7 +3,7 @@
 
 + A partir de esta api: https://opentdb.com/api_config.php
 
-- Crea un sitio web que genere trivias según los siguientes parámetros:
+- Crea un sitio web que genere una trivia según los siguientes parámetros:
 -! Siempre son 10 preguntas
 -! Se puede modificar la dificultad
 -! Se puede seleccionar el tipo de respuesta
@@ -27,3 +27,7 @@
 * SCSS;
 * BEM
 * Webpack
+
+
+
+API base: https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple
